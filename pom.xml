@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>0.21</version>
+  <version>0.21-SNAPSHOT</version>
 
    <scm>
     <developerConnection>scm:git:https://github.com/se7en7x/test23.git</developerConnection>
-     <tag>my-app-0.21</tag>
+     <tag>my-app-0.2</tag>
   </scm>
 
    <build>
