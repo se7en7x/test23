@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.2</version>
 
    <scm>
     <developerConnection>scm:git:https://github.com/se7en7x/test23.git</developerConnection>
