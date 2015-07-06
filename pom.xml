@@ -5,7 +5,7 @@
   <version>0.21-SNAPSHOT</version>
 
    <scm>
-    <developerConnection>scm:git:https://github.com/se7en7x/test23.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:se7en7x/test23.git</developerConnection>
      <tag>my-app-0.2</tag>
   </scm>
 
